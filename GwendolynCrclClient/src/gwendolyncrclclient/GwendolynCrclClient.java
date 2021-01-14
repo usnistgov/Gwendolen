@@ -74,10 +74,10 @@ public class GwendolynCrclClient {
 
             crcl = new CRCLClient();
 
-            KittingDemo kittingdemo = new KittingDemo(crcl);
- 
-            int demostate = 0;
-            int bozo;
+//            KittingDemo kittingdemo = new KittingDemo(crcl);
+// 
+//            int demostate = 0;
+//            int bozo;
 
             while(true) {
                 CRCLClient.action_type action= new CRCLClient.action_type ();
